@@ -1,5 +1,4 @@
 ## FinTech2017_Trading_Strategy
-FinTech2017_Trading_Strategy
 
 “卓越团队奖”
 
